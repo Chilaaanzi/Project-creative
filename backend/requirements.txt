@@ -1,0 +1,12 @@
+# Core
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Data Validation
+pydantic==2.11.7
+
+# Database
+sqlalchemy==2.0.41
+
+# Environment
+python-dotenv==1.1.1
